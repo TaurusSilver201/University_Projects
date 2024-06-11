@@ -1,1 +1,1 @@
-Projects from university courses .
+Projects from university courses.
